@@ -9,4 +9,5 @@ Orders in Layer
 0: Jelly / Shinny
 
 Check Graph-Screenshot folders
- to see screemshot of bolt graphs
+ to see screemnshot of bolt graphs
+### Was getting motion sickness when programming. Development stops until known. 
